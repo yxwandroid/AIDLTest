@@ -11,8 +11,6 @@ import android.util.Log;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.aidltest.myaidl.IUserManager;
-import com.example.aidltest.myaidl.Stub;
 
 public class ClientActivity extends AppCompatActivity {
 
@@ -23,7 +21,7 @@ public class ClientActivity extends AppCompatActivity {
         public void onServiceConnected(ComponentName name, IBinder service) {
             Log.d(TAG, "onServiceConnected, 与服务端连接成功！");
             //1、根据服务端返回的Binder，把它通过Stub.asInterface方法转换为本地代理对象IUserManager.Stub.Proxy
-            IUserManager userManager = Stub.asInterface(service);
+            IUserManager userManager = IUserManager.Stub.asInterface(service);
             try {
                 //2、通过本地代理对象远程调用服务端的方法
                 User user = userManager.getUser("rain");
