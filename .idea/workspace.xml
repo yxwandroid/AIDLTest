@@ -11,17 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a74163c-faea-4a15-b63f-64c38d123fe6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/aidltest/ClientActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aidltest/ClientActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/aidltest/RemoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aidltest/RemoteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/aidltest/myaidl/IUserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aidltest/myaidl/IUserManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/aidltest/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/aidltest/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +90,7 @@
     <property name="android.sdk.path" value="D:/Android/sdk" />
     <property name="device.picker.selection" value="9f7bca13" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -212,25 +204,17 @@
       <screen x="-128" y="-1057" width="1920" height="1057" />
     </state>
     <state x="760" y="-603" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-128.-1057.1920.1057/0.23.1792.1023@-128.-1057.1920.1057" timestamp="1594173045513" />
-    <state width="1750" height="-1" key="GridCell.Tab.0.bottom" timestamp="1599614796248">
-      <screen x="-128" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1750" height="-1" key="GridCell.Tab.0.bottom/-128.-1057.1920.1057/0.23.1792.1021@-128.-1057.1920.1057" timestamp="1599614796248" />
     <state width="1878" height="255" key="GridCell.Tab.0.bottom/-128.-1080.1920.1080/0.0.1792.1120@-128.-1080.1920.1080" timestamp="1599554843812" />
-    <state width="1750" height="-1" key="GridCell.Tab.0.center" timestamp="1599614796247">
-      <screen x="-128" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1750" height="-1" key="GridCell.Tab.0.center/-128.-1057.1920.1057/0.23.1792.1021@-128.-1057.1920.1057" timestamp="1599614796247" />
     <state width="1878" height="255" key="GridCell.Tab.0.center/-128.-1080.1920.1080/0.0.1792.1120@-128.-1080.1920.1080" timestamp="1599554843810" />
-    <state width="1750" height="-1" key="GridCell.Tab.0.left" timestamp="1599614796246">
-      <screen x="-128" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1750" height="-1" key="GridCell.Tab.0.left/-128.-1057.1920.1057/0.23.1792.1021@-128.-1057.1920.1057" timestamp="1599614796246" />
     <state width="1878" height="255" key="GridCell.Tab.0.left/-128.-1080.1920.1080/0.0.1792.1120@-128.-1080.1920.1080" timestamp="1599554843809" />
-    <state width="1750" height="-1" key="GridCell.Tab.0.right" timestamp="1599614796247">
-      <screen x="-128" y="-1057" width="1920" height="1057" />
-    </state>
-    <state width="1750" height="-1" key="GridCell.Tab.0.right/-128.-1057.1920.1057/0.23.1792.1021@-128.-1057.1920.1057" timestamp="1599614796247" />
     <state width="1878" height="255" key="GridCell.Tab.0.right/-128.-1080.1920.1080/0.0.1792.1120@-128.-1080.1920.1080" timestamp="1599554843811" />
+    <state x="333" y="-901" key="SettingsEditor" timestamp="1599618191964">
+      <screen x="-128" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="333" y="-901" key="SettingsEditor/-128.-1080.1920.1080/0.0.1792.1120@-128.-1080.1920.1080" timestamp="1599618191964" />
+    <state x="497" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1599618227190">
+      <screen x="-128" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="497" y="-839" width="670" height="676" key="search.everywhere.popup/-128.-1080.1920.1080/0.0.1792.1120@-128.-1080.1920.1080" timestamp="1599618227190" />
   </component>
 </project>

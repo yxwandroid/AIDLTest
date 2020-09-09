@@ -5,7 +5,6 @@ import android.os.Parcelable;
 
 /**
  * 可以序列化的User
- * Created by 陈健宇 at 2019/10/14
  */
 public class User implements Parcelable {
 
