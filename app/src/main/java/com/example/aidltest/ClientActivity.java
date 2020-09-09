@@ -33,6 +33,8 @@ public class ClientActivity extends AppCompatActivity {
             } catch (RemoteException e) {
                 e.printStackTrace();
             }
+
+
         }
 
         @Override
@@ -46,10 +48,7 @@ public class ClientActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        bindService(
-                new Intent(this, RemoteService.class),
-                mServiceConnection,
-                Context.BIND_AUTO_CREATE
+        bindService(new Intent(this, RemoteService.class), mServiceConnection, Context.BIND_AUTO_CREATE
         );
     }
 
